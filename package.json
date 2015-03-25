@@ -1,0 +1,22 @@
+{
+  "name": "tashop",
+  "version": "1.0.0",
+  "description": "true alliance shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/praveensewak/tashop.git"
+  },
+  "author": "Praveen Sewak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveensewak/tashop/issues"
+  },
+  "homepage": "https://github.com/praveensewak/tashop",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
